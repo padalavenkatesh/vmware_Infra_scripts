@@ -1,0 +1,2 @@
+Name,Boot,OSType,Template,CustSpec,Folder,ResourcePool,CPU,RAM,Disk2,Disk3,Disk4,Datastore,DiskStorageFormat,NetType,Network,DHCP,IPAddress,SubnetMask,Gateway,pDNS,sDNS,Notes
+Virtualmachine,TRUE,Windows,win2008r2,My_cus_spec,,10.4.2.225,2,2,,,,datastore1,thin,vss,VM Network,FALSE,10.4.7.72,255.255.0.0,10.4.1.1,10.4.7.68,,testvm
